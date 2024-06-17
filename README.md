@@ -1,6 +1,8 @@
 Java Spring Security Home Work 7
-by Istomin Sergey group 6413
-Task:
+by Istomin Sergey group 6413  
+
+Task:  
+
 1. Для ресурсов, возвращающих HTML-страницы, реализовать авторизацию через login-форму.
 Остальные /api ресурсы, возвращающие JSON, закрывать не нужно!
 
